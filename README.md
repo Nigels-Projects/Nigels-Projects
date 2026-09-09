@@ -44,4 +44,4 @@ As a hybrid IT support and cybersecurity specialist, I combine hands-on infrastr
 </div>
 
 ## Projects
-- **Enterprise Active Directory Home Lab:** An enterprise-grade home lab environment simulating corporate infrastructure, endpoint telemetry ingestion, and adversarial attack detection for blue team analysis.
+- <a href="https://github.com/Nigels-Projects/Active-Directory-Lab" target="_blank">Active Directory Lab Repository</a>s.
