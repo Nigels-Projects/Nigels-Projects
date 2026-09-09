@@ -9,10 +9,8 @@ As a hybrid IT support and cybersecurity specialist, I combine hands-on infrastr
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Active Directory Infrastructure & Management   | [Enterprise Active Directory Home Lab](#) |
-| SIEM Implementation and Log Analysis          | [Enterprise Active Directory Home Lab](#) |
-| Endpoint Telemetry & Sysmon Configuration     | [Enterprise Active Directory Home Lab](#) |
-| Adversary Simulation & MITRE ATT&CK Mapping   | [Enterprise Active Directory Home Lab](#) |
+| Active Directory Infrastructure & Management   |<a href="https://github.com/Nigels-Projects/Active-Directory-Lab" target="_blank"> |
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Nigels-Projects/Active-Directory-Lab" target="_blank"> |
 
 ## Tools
 
